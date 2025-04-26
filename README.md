@@ -100,10 +100,10 @@ Each model is trained on the generated malicious/benign app dataset and evaluate
 
 ## 📩 Contact Information
 
-👩‍💻 Author: Anitha Dommari  
-📧 Email: anithadommari123@gmail.com  
-🔗 LinkedIn: https://linkedin.com/in/anitha-dommari  
-🐙 GitHub: https://github.com/2020ucp1070
+👩‍💻 Author: Anitha D 
+📧 Email: danitha200204@gmail.com 
+🔗 LinkedIn: https://www.linkedin.com/in/d-anitha-990806237/  
+🐙 GitHub: https://github.com/2020ucp1070?tab=repositories
 
 ---
 
